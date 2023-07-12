@@ -2,7 +2,7 @@
 
 **SETUP**
 
-Download the project files on this link:
+Download the project files on this [link](https://github.com/HarisKordic/MosaicPay-backend/tree/dev)
 
 Setup the .env file **in the root of the mosaicpay** project for the backend service MosaicPay-Backend/mosaicpay. Setup the .env.development file in **the root of the frontend** folder for the Next.js application MosaicPay-Backend/mosaicpay/frontend.
 
