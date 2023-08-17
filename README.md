@@ -1,5 +1,8 @@
 # MosaicPay-documentation
 
+<a href="https://github.com/HarisKordic/MosaicPay-backend/tree/main">Backend</a></br>
+<a href="https://github.com/HarisKordic/MosaicPay-frontend">Frontend</a>
+
 **SETUP**
 
 Download the project files on this [link](https://github.com/HarisKordic/MosaicPay-backend/tree/dev)
